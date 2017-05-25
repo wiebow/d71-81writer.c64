@@ -4,6 +4,8 @@ A 1541 Ultimate 2 write tool
 
 Written by Ernoman and WdW.
 
+![writer](https://github.com/wiebow/d81writer/blob/master/images/screen.png)
+
 Introduction
 ============
 
