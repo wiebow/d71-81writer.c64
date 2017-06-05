@@ -31,12 +31,15 @@ least 1MB of memory.
 Disable any cartridge in the U2 interface. Some cartridges, like the Retro
 Replay, do not play nice and will cause the command interface to fail.
 
+On a C128 in C64 mode: When running the program on a C128 (in C64 mode) you
+need to modify the 1541U2 option CPU addr valid after PHI2 to 100ns.
+
 Put your image files somewhere on a USB or Micro SD card and insert it into the
 U2.
 
-When the tools starts, double check if you see the ultimate dos version appear
-under the header. If this does not happen, re-check your U2 settings.
-
+When the tools starts, make sure if you see the ultimate dos version appear
+under the header. If this does not happen, re-check your U2 settings!! The tool
+will not function properly until you see the dos version.
 
 Usage
 =====
